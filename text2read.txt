@@ -1,0 +1,4 @@
+hola mundo
+lectura de la primera linea
+continuando con la lectura. Fin
+Adios
