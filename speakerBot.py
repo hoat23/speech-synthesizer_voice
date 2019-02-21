@@ -1,5 +1,6 @@
 #coding:utf-8
 # pip install pyttsx3
+# pip install pypiwin32
 
 import os
 import sys
